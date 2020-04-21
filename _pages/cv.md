@@ -11,21 +11,28 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Information System Technology and Design, Singapore University of Technology and Design, 2020 (expected)
+* M.S. in Computer Science, Asian Institute of Technology, 2011
+* B.S. in Information and Communication Technology, Mahidol University, 2009
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Oct 2012 – Jan 2015: System Engineer
+  * Central Office, [National Science and Technology Development Agency](https://www.nstda.or.th/)
+  * Duties included: Analyzing user requirements and developing web-based applications to support organizational processes; Maintaining  and fixing performance/security issues of legacy organization applications; Providing technical support to users; Being a secretary of Chief Information Officer (CIO) and Steering Committee (SC) meetings (for 1 and 2+ years respectively)
+* Jul 2011 – Sep 2012: Research Assistance
+  * Information Systems Laboratory, BIOTEC, [National Science and Technology Development Agency](https://www.nstda.or.th/)
+  * Duties included: Designing, developing, and testing information extraction system for chemical data curation
+  * Supervisor: Duangdao Wichadakul and Supawadee Ingsriswang 
+  
+Internships
+======
+* Mar 2019 – May 2019: [Distributed & Interactive Systems Group](https://www.dis.cwi.nl/), Centrum Wiskunde & Informatica, Netherlands
+  * Duties included: Designing and developing user interface for facilitating live editing in streaming 
+  * Supervisor: Jie Li and Pablo Cesar
+* Feb 2015 – Jul 2015: [NUS HCI Lab](http://www.nus-hci.org/), National University of Singapore
+  * Duties included: Developing back-end of online political discussion system and did integration with the front-end; Designing  and developing user interface to facilitate comparison of alternative stories 
+  * Supervisor: Simon Perrault and Shengdong Zhao
   
 Skills
 ======
