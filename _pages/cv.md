@@ -54,6 +54,5 @@ Publications
   
 [//]: # Talks
 [//]: # ======
-[//]: #   <ul>{% for post in site.talks %}
-[//]: #     {% include archive-single-talk-cv.html %}
-[//]: #   {% endfor %}</ul>
+[//]: # site.talks
+[//]: # archive-single-talk-cv.html
