@@ -12,8 +12,11 @@ redirect_from:
 Education
 ======
 * PhD in Information System Technology and Design, Singapore University of Technology and Design, 2020 (expected)
+  * Thesis: Designing User Interface for Facilitating Video Comparison Tasks
 * M.S. in Computer Science, Asian Institute of Technology, 2011
+  * Master Thesis: 3D Virtual Model Construction and Visualization for an Agricultural Field Inspection Robot
 * B.S. in Information and Communication Technology, Mahidol University, 2009
+  * Senior Project: Interactive Shape Manipulation System
 
 Professional experience
 ======
@@ -34,7 +37,7 @@ Additional experience
   * Singapore University of Technology and Design, in collaboration with Gardens by the Bay
   * Duties included: Developing an application for Mid-Autumn festival at Gardens by the Bay
 * 2013 - Present:	Full-stack Web Developer
-  * https://oCircle.in.th
+  * https://oCircle.in.th(https://oCircle.in.th)
   * Duties included: Everything, currently just maintain the website  
   
 Internships
