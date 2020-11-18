@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* PhD in Information System Technology and Design, Singapore University of Technology and Design, 2020 (expected)
+* PhD in Information System Technology and Design, Singapore University of Technology and Design, 2020
   * Thesis: Designing User Interface for Facilitating Video Comparison Tasks
 * M.S. in Computer Science, Asian Institute of Technology, 2011
   * Master Thesis: 3D Virtual Model Construction and Visualization for an Agricultural Field Inspection Robot
@@ -20,6 +20,10 @@ Education
 
 Professional experience
 ======
+* Nov 2020 – present: Postdoctoral researcher
+  * National Electronics and Computer Technology Center [(NECTEC)](https://www.nectec.or.th/en/).
+  * Duties included: Research about blockchain and HCI
+  * Supervisor: ‪Suporn Pongnumkul‬
 * Oct 2012 – Jan 2015: System Engineer
   * Central Office, [National Science and Technology Development Agency](https://www.nstda.or.th/)
   * Duties included: Analyzing user requirements and developing web-based applications to support organizational processes; Maintaining  and fixing performance/security issues of legacy organization applications; Providing technical support to users; Being a secretary of Chief Information Officer (CIO) and Steering Committee (SC) meetings (for 1 and 2+ years respectively)
