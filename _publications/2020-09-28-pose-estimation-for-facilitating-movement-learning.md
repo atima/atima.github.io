@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2020-09-28-pose-estimation-for-facilitating-movement-learning
 excerpt: ''
 date: 2020-09-28
-venue: 'International Conference on Advanced Visual Interfaces 2020'
+venue: 'International Conference on Advanced Visual Interfaces'
 paperurl: 'https://doi.org/10.1145/3399715.3399835'
 citation: 'Tharatipyakul, Atima, Kenny TW Choo, and Simon T. Perrault. &quot;Pose estimation for facilitating movement learning from online videos.&quot; <i>Proceedings of the International Conference on Advanced Visual Interfaces.</i> 2020.'
 ---
