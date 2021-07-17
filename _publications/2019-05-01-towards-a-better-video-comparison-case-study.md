@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2019-05-01-towards-a-better-video-comparison
 excerpt: ''
 date: 2019-05-01
-venue: 'Asian CHI Symposium 2019'
+venue: 'Asian CHI Symposium'
 paperurl: 'https://doi.org/10.1145/3309700.3338443'
 citation: 'Tharatipyakul, Atima, and Hyowon Lee. &quot;Towards a better video comparison: case study.&quot; <i>Proceedings of Asian CHI Symposium 2019: Emerging HCI Research Collection</i>. pp. 80-89. 2019.'
 ---
