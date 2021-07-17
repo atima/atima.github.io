@@ -22,7 +22,7 @@ Professional experience
 ======
 * Nov 2020 – present: Postdoctoral researcher
   * National Electronics and Computer Technology Center [(NECTEC)](https://www.nectec.or.th/en/).
-  * Duties included: Research about blockchain and HCI
+  * Duties included: Research about blockchain and Human Computer Interaction
   * Supervisor: ‪Suporn Pongnumkul‬
 * Oct 2012 – Jan 2015: System Engineer
   * Central Office, [National Science and Technology Development Agency](https://www.nstda.or.th/)
@@ -55,7 +55,7 @@ Internships
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
+  <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
@@ -63,3 +63,7 @@ Publications
 [//]: # ======
 [//]: # site.talks
 [//]: # archive-single-talk-cv.html
+
+Service and leadership
+======
+* July 2021 - June 2022: Treasurer for [BKK ACM SIGCHI Chapter](https://bkksigchi.acm.org/)
