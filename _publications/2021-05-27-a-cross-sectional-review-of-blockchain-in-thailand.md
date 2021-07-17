@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2021-05-27-a-cross-sectional-review-of-blockchain-in-thailand
 excerpt: ''
 date: 2021-05-27
-venue: 'Applied Sciences 11.11 (2021): 4928'
+venue: 'Applied Sciences 11.11'
 paperurl: 'https://www.mdpi.com/1126846'
 citation: 'Pongnumkul, Suporn, et al. &quot;A Cross-Sectional Review of Blockchain in Thailand: Research Literature, Education Courses, and Industry Projects.&quot; <i>Applied Sciences</i> 11.11 (2021): 4928.'
 ---
