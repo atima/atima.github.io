@@ -43,9 +43,9 @@ Additional experience
 * 2017: Lead Mobile Application Developer
   * Singapore University of Technology and Design, in collaboration with Gardens by the Bay
   * Duties included: Developing an application for Mid-Autumn festival at Gardens by the Bay
-* 2013 - Present:	Full-stack Web Developer
+* 2013 - 2021:	Full-stack Web Developer
   * https://oCircle.in.th(https://oCircle.in.th)
-  * Duties included: Everything, currently just maintain the website  
+  * Duties included: Designing, developing, deploying, and maintaining the website
   
 Internships
 ======
