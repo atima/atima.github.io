@@ -37,15 +37,15 @@ Professional experience
   
 Additional experience
 ======
-* 2017: Teaching Assistance
-  * Singapore University of Technology and Design
-  * Duties included: Assisting instructors in User Interface Design and Implementation course (Jan - Apr) and Database course (Sep - Dec)
-* 2017: Lead Mobile Application Developer
-  * Singapore University of Technology and Design, in collaboration with Gardens by the Bay
-  * Duties included: Developing an application for Mid-Autumn festival at Gardens by the Bay
 * 2013 - 2021:	Full-stack Web Developer
   * https://oCircle.in.th(https://oCircle.in.th)
   * Duties included: Designing, developing, deploying, and maintaining the website
+* 2017: Lead Mobile Application Developer
+  * Singapore University of Technology and Design, in collaboration with Gardens by the Bay
+  * Duties included: Developing an application for Mid-Autumn festival at Gardens by the Bay  
+* 2017: Teaching Assistance
+  * Singapore University of Technology and Design
+  * Duties included: Assisting instructors in User Interface Design and Implementation course (Jan - Apr) and Database course (Sep - Dec)
   
 Internships
 ======
