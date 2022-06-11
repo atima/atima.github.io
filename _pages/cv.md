@@ -25,7 +25,7 @@ redirect_from:
 
 - Nov 2020 – present: Postdoctoral researcher
   - National Electronics and Computer Technology Center [(NECTEC)](https://www.nectec.or.th/en/).
-  - Duties included: Conducting research about blockchain-based traceability apllication, physical movement training application, and Human Computer Interaction
+  - Duties included: Conducting research about blockchain-based traceability application, physical movement training application, and Human Computer Interaction
   - Supervisor: Dr. Suporn Pongnumkul
 - Oct 2012 – Jan 2015: System Engineer
   - Central Office, [National Science and Technology Development Agency](https://www.nstda.or.th/)
