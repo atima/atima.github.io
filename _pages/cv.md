@@ -23,7 +23,11 @@ redirect_from:
 
 # Professional experience
 
-- Nov 2020 – present: Postdoctoral researcher
+- May 2023 – present: Research fellow
+  - Singapore Institue of Technology ([SIT](https://www.singaporetech.edu.sg/)).
+  - Duties included: Designing, developing, and conducting user studies on mobile-friendly cartograms
+  - Supervisor: Dr. Michael Gastner
+- Nov 2020 – Apr 2023: Postdoctoral researcher
   - National Electronics and Computer Technology Center [(NECTEC)](https://www.nectec.or.th/en/).
   - Duties included: Conducting research about blockchain-based traceability application, physical movement training application, and Human Computer Interaction
   - Supervisor: Dr. Suporn Pongnumkul
