@@ -10,7 +10,7 @@ locale: "en-US"
 title: "Atima Tharatipyakul"
 title_separator: "-"
 name: &name "Atima Tharatipyakul"
-description: &description "PhD Student at Singapore University of Technology and Design"
+description: &description "Research Fellow at Singapore Institute of Technology"
 url: https://atima.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: "" # the subpath of your site, e.g. "/blog"
 repository: "atima/atima.github.io"
@@ -80,8 +80,8 @@ analytics:
 author:
   name: "Atima Tharatipyakul"
   avatar: "profile.png"
-  bio: "Postdoctoral researcher at National Electronics and Computer Technology Center"
-  location: "Thailand"
+  bio: "Research Fellow at Singapore Institute of Technology"
+  location: "Singapore, Thailand"
   employer:
   pubmed:
   googlescholar: "https://scholar.google.co.th/citations?hl=en&user=AGYV9VgAAAAJ"
@@ -247,7 +247,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Singapore # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 # Plugins
 plugins:
