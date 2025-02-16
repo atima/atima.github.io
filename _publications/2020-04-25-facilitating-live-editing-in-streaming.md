@@ -1,8 +1,9 @@
 ---
 title: "Designing User Interface for Facilitating Live Editing in Streaming"
 collection: publications
+category: conferences
 permalink: /publication/2020-04-25-facilitating-live-editing-in-streaming
-excerpt: "<iframe width='280' height='158' src='https://www.youtube.com/embed/VrbYwSsnuKo' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>"
+excerpt: "<div class='excerpt-media'><iframe width='280' height='158' src='https://www.youtube.com/embed/VrbYwSsnuKo' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe></div>"
 date: 2020-04-25
 venue: "The 2020 CHI Conference on Human Factors in Computing Systems"
 paperurl: "https://doi.org/10.1145/3334480.3383037"

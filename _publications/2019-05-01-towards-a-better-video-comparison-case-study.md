@@ -1,8 +1,9 @@
 ---
 title: "Towards a better video comparison: case study"
 collection: publications
+category: conferences
 permalink: /publication/2019-05-01-towards-a-better-video-comparison
-excerpt: "<iframe width='280' height='158' src='https://www.youtube.com/embed/wIPTOn6IFF4' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>"
+excerpt: "<div class='excerpt-media'><iframe width='280' height='158' src='https://www.youtube.com/embed/wIPTOn6IFF4' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe></div>"
 date: 2019-05-01
 venue: "Asian CHI Symposium"
 paperurl: "https://doi.org/10.1145/3309700.3338443"

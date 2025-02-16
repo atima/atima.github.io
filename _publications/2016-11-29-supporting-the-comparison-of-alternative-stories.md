@@ -1,8 +1,9 @@
 ---
 title: "Supporting the comparison of alternative stories"
 collection: publications
+category: conferences
 permalink: /publication/2016-11-29-supporting-the-comparison-of-alternative-stories
-excerpt: "<iframe width='280' height='158' src='https://www.youtube.com/embed/WdceIHGO9jo' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>"
+excerpt: "<div class='excerpt-media'><iframe width='280' height='158' src='https://www.youtube.com/embed/WdceIHGO9jo' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe></div>"
 date: 2016-11-29
 venue: "The 28th Australian Conference on Computer-Human Interaction (OzCHI 2016)"
 paperurl: "https://doi.org/10.1145/3292147.3292183"
