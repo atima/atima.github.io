@@ -73,6 +73,7 @@ redirect_from:
 
 # Service and leadership
 
-- 14 December 2024: A judge for the 2024 Thai SIGCHI Symposium
+- 29 – 30 May 2025: Judge for the 2025 UI Design-athon
+- 14 December 2024: Judge for the 2024 Thai SIGCHI Symposium
 - July 2022 - June 2023: Chair of [BKK ACM SIGCHI Chapter](https://bkksigchi.acm.org/)
 - July 2021 - June 2022: Treasurer of [BKK ACM SIGCHI Chapter](https://bkksigchi.acm.org/)
