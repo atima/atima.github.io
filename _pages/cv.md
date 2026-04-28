@@ -23,7 +23,9 @@ redirect_from:
 
 # Professional experience
 
-- May 2023 – present: Research fellow
+- January 2026 – present: Indie Game Developer (Solo Tech Lead)
+  - Duties included: Managing a project, designing user interface and user experience, and developing a 2D visual novel game using Unity
+- May 2023 – October 2025: Research fellow
   - Singapore Institue of Technology ([SIT](https://www.singaporetech.edu.sg/)).
   - Duties included: Designing, developing, and conducting user studies on mobile-friendly cartograms
   - Supervisor: Dr. Michael Gastner
@@ -60,6 +62,22 @@ redirect_from:
   - Duties included: Developing back-end of online political discussion system and did integration with the front-end; Designing and developing user interface to facilitate comparison of alternative stories
   - Supervisors: Dr. Simon Perrault and Prof. Shengdong Zhao
 
+# Technical Skills
+
+Strong background in programming enables fast learning of a wide variety of programming languages, concepts, and technologies, including, but not limited to:
+
+- Programming: Python, R, C# (Unity)
+- Web Programming: JavaScript (vue.js), PHP
+- Mobile Programming: React native
+
+# Service and leadership
+
+- April 2026 - present: Vice chair, [BKK ACM SIGCHI Chapter](https://bkksigchi.acm.org/)
+- 29 – 30 May 2025: Invited judge, 2025 UI Design-athon
+- 14 December 2024: Invited judge, 2024 Thai SIGCHI Symposium
+- July 2022 - June 2023: Chair, [BKK ACM SIGCHI Chapter](https://bkksigchi.acm.org/)
+- July 2021 - June 2022: Treasurer, [BKK ACM SIGCHI Chapter](https://bkksigchi.acm.org/)
+
 # Publications
 
   <ul>{% for post in site.publications reversed %}
@@ -70,10 +88,3 @@ redirect_from:
 [//]: # ======
 [//]: # site.talks
 [//]: # archive-single-talk-cv.html
-
-# Service and leadership
-
-- 29 – 30 May 2025: Judge for the 2025 UI Design-athon
-- 14 December 2024: Judge for the 2024 Thai SIGCHI Symposium
-- July 2022 - June 2023: Chair of [BKK ACM SIGCHI Chapter](https://bkksigchi.acm.org/)
-- July 2021 - June 2022: Treasurer of [BKK ACM SIGCHI Chapter](https://bkksigchi.acm.org/)

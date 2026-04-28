@@ -12,7 +12,7 @@ site_theme: "default"
 title: "Atima Tharatipyakul"
 title_separator: "-"
 name: &name "Atima Tharatipyakul"
-description: &description "Research Fellow at Singapore Institute of Technology"
+description: &description "HCI/UXI Researcher | Software Developer"
 url: https://atima.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: "" # the subpath of your site, e.g. "/blog"
 repository: "atima/atima.github.io"
@@ -25,9 +25,9 @@ author:
   avatar: "profile.png"
   name: "Atima Tharatipyakul"
   pronouns: # example: "she/her"
-  bio: "Research Fellow at Singapore Institute of Technology"
-  location: "Singapore, Thailand"
-  employer: "Singapore Institute of Technology"
+  bio: "HCI/UXI Researcher | Software Developer"
+  location: "Thailand"
+  employer: #
   uri: # URL
   email: # "none@example.org"
 
